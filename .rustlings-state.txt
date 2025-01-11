@@ -1,6 +1,23 @@
 DON'T EDIT THIS FILE!
 
+<<<<<<< HEAD
 variables1
 
 intro1
 intro2
+=======
+functions5
+
+intro1
+intro2
+variables1
+variables2
+variables3
+variables4
+variables5
+variables6
+functions1
+functions2
+functions3
+functions4
+>>>>>>> 5c944adb8ba64b9c65f98a985cdf743566eda7f3
